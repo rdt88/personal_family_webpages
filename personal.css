@@ -1,0 +1,16 @@
+body {
+	font-family: sans-serif;
+	background-color: lightblue;
+	display: block;
+	margin: 60px;
+}
+
+h1 {
+    color: orange;
+    margin-left: 60px;
+}
+
+h2 {
+		color: purple;
+		margin-left: 80px;
+}
